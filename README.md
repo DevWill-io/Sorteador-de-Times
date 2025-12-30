@@ -10,5 +10,6 @@ de 10 equipes e realiza um sorteio aleatório de forma imparcial.
 ​Sorteio Aleatório: Utiliza a biblioteca nativa random do Python para garantir um resultado justo.
 
 ​🛠️ Tecnologias Utilizadas
+
 ​Linguagem: Python 3.x
 ​Biblioteca: random (Nativa do Python)
