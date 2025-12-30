@@ -7,4 +7,5 @@ Este é um codigo basico de python que eu fiz, para sortear um time entre 10 tim
 ​🛠️ Tecnologias Utilizadas
 
 Linguagem: Python 3.x
+
 Biblioteca: Random
